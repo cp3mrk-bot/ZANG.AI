@@ -1,4 +1,4 @@
-# ZANG爱 - 锐评一切
+# ZANG爱 (ZANG AI) - 锐评一切 (just RIPing it)
 
 > 用最犀利的眼光，锐评一切值得锐评的事物
 
